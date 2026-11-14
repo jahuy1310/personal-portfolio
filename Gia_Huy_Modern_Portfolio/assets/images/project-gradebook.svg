@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Student Grade Book preview</title><desc id="desc">Illustrated grade table and GPA summary in cream and green</desc>
+<rect width="960" height="600" fill="#e9f0e5"/><circle cx="820" cy="110" r="180" fill="#d0e6ca"/>
+<rect x="115" y="72" width="730" height="457" rx="28" fill="#fff" stroke="#d9e4da" stroke-width="3"/>
+<rect x="115" y="72" width="730" height="70" rx="28" fill="#245d49"/><path d="M115 113h730v29H115z" fill="#245d49"/>
+<circle cx="153" cy="107" r="8" fill="#cfed8b"/><circle cx="181" cy="107" r="8" fill="#bdd5bf"/>
+<text x="228" y="115" font-family="Arial,sans-serif" font-size="22" font-weight="bold" fill="#fff">GRADE BOOK</text>
+<rect x="152" y="179" width="405" height="56" rx="13" fill="#f1f6ee"/>
+<text x="175" y="213" font-family="Arial,sans-serif" font-size="21" font-weight="bold" fill="#275e48">Course</text><text x="465" y="213" font-family="Arial,sans-serif" font-size="19" fill="#577565">Score</text>
+<g font-family="Arial,sans-serif" font-size="20" fill="#304a3d">
+<text x="175" y="274">Python Programming</text><text x="484" y="274">92</text>
+<text x="175" y="340">Calculus</text><text x="484" y="340">87</text>
+<text x="175" y="406">Digital Systems</text><text x="484" y="406">90</text>
+</g>
+<g stroke="#e6ede6" stroke-width="2"><path d="M160 290H549M160 356H549M160 423H549"/></g>
+<rect x="598" y="185" width="203" height="272" rx="24" fill="#e8f2e2"/>
+<text x="699" y="239" font-family="Arial,sans-serif" font-size="22" text-anchor="middle" fill="#37614e">Overall GPA</text>
+<circle cx="699" cy="328" r="66" fill="#fff" stroke="#a7c9aa" stroke-width="17"/>
+<path d="M699 262 A66 66 0 1 1 641 359" fill="none" stroke="#2b7356" stroke-width="17" stroke-linecap="round"/>
+<text x="699" y="341" font-family="Arial,sans-serif" font-size="37" font-weight="bold" text-anchor="middle" fill="#205640">3.8</text>
+</svg>

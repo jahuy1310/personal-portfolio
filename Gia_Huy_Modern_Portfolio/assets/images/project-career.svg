@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Career Plan roadmap illustration</title><desc id="desc">Timeline from undergraduate study toward IC design engineering</desc>
+<rect width="960" height="600" fill="#f3ede3"/><circle cx="100" cy="70" r="150" fill="#e3ecd5"/>
+<rect x="85" y="85" width="790" height="430" rx="30" fill="#fff" stroke="#e9e3d6" stroke-width="3"/>
+<text x="132" y="152" font-family="Arial,sans-serif" font-size="27" font-weight="bold" fill="#204f3d">MY CAREER ROADMAP</text>
+<text x="133" y="188" font-family="Arial,sans-serif" font-size="16" fill="#78887b">Learning today, building toward tomorrow</text>
+<path d="M177 309H782" stroke="#c6dacc" stroke-width="16" stroke-linecap="round"/>
+<g fill="#2f7454" stroke="#fff" stroke-width="9"><circle cx="192" cy="309" r="28"/><circle cx="490" cy="309" r="28"/><circle cx="775" cy="309" r="28"/></g>
+<g font-family="Arial,sans-serif" fill="#244b3b">
+<text x="192" y="254" text-anchor="middle" font-size="23" font-weight="bold">2026–2030</text>
+<text x="490" y="254" text-anchor="middle" font-size="23" font-weight="bold">2030–2032</text>
+<text x="775" y="254" text-anchor="middle" font-size="23" font-weight="bold">2032+</text>
+<text x="192" y="387" text-anchor="middle" font-size="23" font-weight="bold">Bachelor's</text>
+<text x="490" y="387" text-anchor="middle" font-size="23" font-weight="bold">Master's</text>
+<text x="775" y="387" text-anchor="middle" font-size="23" font-weight="bold">IC Design</text>
+</g>
+<g font-family="Arial,sans-serif" fill="#7a8a7e" font-size="17">
+<text x="192" y="417" text-anchor="middle">Asia University</text>
+<text x="490" y="417" text-anchor="middle">Taiwan · planned</text>
+<text x="775" y="417" text-anchor="middle">Engineer · goal</text>
+</g><rect x="130" y="461" width="227" height="7" rx="4" fill="#cce58a"/>
+</svg>
